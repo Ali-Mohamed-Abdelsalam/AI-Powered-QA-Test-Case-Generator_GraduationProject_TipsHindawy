@@ -139,11 +139,39 @@ The main outputs provided by the interface are:
 
 ---
 
-📸 Demo
+## 📸 Demo
 
-```
-Add screenshots, GIFs, or a demo video demonstrating the Gradio interface and the complete project workflow.
-```
+The following screenshots demonstrate the AI-powered QA Test Case Generation Agent and its main outputs.
+
+### AI QA Test Case Generation Agent
+
+![Agent Interface 1](screenshots/Agent_Interface1.png)
+
+![Agent Interface 2](screenshots/Agent_Interface2.png)
+
+### Generated Test Cases
+
+The agent generates structured software test cases based on the provided software requirement.
+
+![Generated Test Cases - PDF](screenshots/Generated_TestCases_PDF.png.png)
+
+![Generated Test Cases - Text](screenshots/Generated_TestCases_Text.png.png)
+
+### Coverage & Gap Analysis
+
+The agent analyzes the generated test cases to identify covered scenarios and potential coverage gaps.
+
+![Coverage and Gap Analysis - PDF](screenshots/Coverage_And_GapAnalysis_PDF.png.png)
+
+![Coverage and Gap Analysis - Text](screenshots/Coverage_And_GapAnalysis_Text.png.png)
+
+### Missing Test Cases
+
+The agent generates and presents additional test cases for identified missing scenarios.
+
+![Missing Test Cases - PDF](screenshots/Missing_TestCases_PDF.png.png)
+
+![Missing Test Cases - Text](screenshots/Missing_Testcases_Text.png.png)
 
 
 
