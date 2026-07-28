@@ -177,7 +177,7 @@ The agent generates and presents additional test cases for identified missing sc
 
 ---
 
-📈 Results
+📈Results
 
 The project successfully demonstrates an AI-assisted software QA workflow that can generate software test cases from software requirements and improve test coverage through multiple analysis and validation stages.
 
@@ -213,13 +213,14 @@ The project demonstrates the potential of combining Large Language Models with Q
 
 ---
 
-📚 About the Challenge
+📚About the Challenge
 
 This project was developed as part of the Tips Hindawi Challenge (June–July) 2026.
 
 Tips Hindawi is the internships department of Edrak for Ai, and the challenge encourages participants to build real-world projects, apply practical skills, and showcase their work through GitHub.
 
 For more information about the challenge, training programs, and upcoming batches, visit the official Tips Hindawi website.
+
 
 ---
 
